@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="JAVA FTP Client Utility API" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.7" sourcefiles="src/Teacher_Student_Frame.java,src/AddMSQ1.java,src/PlayTOF.java,src/TOF.java,src/AddTOF1.java,src/PlayMSQ.java,src/SignUp.java,src/SelectTOF.java,src/Teacher.java,src/Account.java,src/SelectMSQ.java,src/GamesTypes.java,src/Student.java,src/Login.java,src/AddMSQ2.java,src/MSQ.java,src/Teacher_Home.java,src/Student_Home.java,src/AddTOF2.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="http://java.sun.com/javase/7/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
